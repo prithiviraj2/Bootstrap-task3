@@ -1,0 +1,34 @@
+
+.first{
+    font-size: 14px;
+}
+.footertext{
+    color:#a2acba;
+}
+.text{
+    font-size: px;
+}
+.buttontext{
+    font-size: 10px;
+}
+.footerlink{
+    color: #a2acba;
+}
+  @media only screen and (min-width: 768px){
+    .menu{
+     height: 400px;
+     width: 550px;
+    }
+  }
+  @media only screen and (max-width: 768px){
+    .hidden {
+            display: none;
+    }
+  }
+  @media only screen and (min-width: 768px){
+    .menu2{
+     height: 400px;
+     width: 290px;
+    }
+  }
+ 
